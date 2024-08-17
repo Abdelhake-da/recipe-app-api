@@ -1,6 +1,6 @@
 [flake8]
-exlude = 
+exclude = 
     magrations,
     __pychache__,
     manage.py,
-    settings.py,
+    settings.py
